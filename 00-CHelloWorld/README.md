@@ -9,8 +9,6 @@
 
 ### Codigo fuente hello.c
 
-<!-- 
-
 #include <stdio.h>
 
 int main(){
@@ -18,20 +16,10 @@ int main(){
     return 0;
 }
 
--->
-
 ### Salida esperada
 
-<!-- 
-
 Hello, World!
-
--->
 
 ### Contenido del output.txt
 
-<!-- 
-
 Hello, World!
-
--->
